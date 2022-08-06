@@ -1,0 +1,29 @@
+Index.html.
+
+<!DOCTYPE html>.
+
+<head>ELL
+
+<title> Home Page</title>"
+
+<meta name = "Description" content="" 4 .College e website " <meta name= -I"keywords" content - * vidyanicki,
+
+College, Hampage") <meta name="author!! content!" Rohit "5 <style>
+
+h2 { background-color: red; text-align: centery Color: white; font-size: 20 pl;}
+
+: </style> </head>
+
+<body bgcolor="cyan") aliger 2!! centen!!).
+
+<marquce behavior =!' alternate, " vidyandhi: Junior college of Science
+
+<h2> vidyanidhi education complex, vidyanidhi morg, J.V.PD scheme. (Tha).
+
+*......... Add few lines about the college.
+
+<center>
+
+3
+
+<img src="" college pic.jpg" height width="1 <0%" blondey = 1 alt="mly college" </center>
